@@ -2,7 +2,6 @@
 
 import matplotlib.pyplot as plt 
 import seaborn as sns
-from biota.database import get_sample_data
 import biota.plot as bpl
 import pandas as pd
 import calendar
